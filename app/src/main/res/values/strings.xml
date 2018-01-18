@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Автозапчасти</string>
+    <string name="helloTextViewText">Добро пожаловать!</string>
+    <string name="registerButtonText">Зарегистрироваться</string>
+    <string name="loginButtonText">Войти</string>
+    <string name="legalEntityAskText">Юридическое лицо?</string>
+    <string name="lastnameText">Фамилия</string>
+    <string name="firstnameText">Имя</string>
+    <string name="companynameText">Название компании</string>
+    <string name="patronymicText">Отчество</string>
+    <string name="registerText">Зарегистрироваться</string>
+    <string name="passwordText">Пароль</string>
+    <string name="loginText">Войти</string>
+</resources>
